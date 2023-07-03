@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "733217287273",
+    "project_id": "se-supply",
+    "storage_bucket": "se-supply.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733217287273:android:9a81bb58ad0e92becdc6f8",
+        "android_client_info": {
+          "package_name": "com.s.supplyplatform.supplyplatform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733217287273-ek40ljbtp0jdja0s8451vnij6amnm3hl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5O7LsKrlXU7zJXuwMmxHfVluKFHRD2OA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733217287273-ek40ljbtp0jdja0s8451vnij6amnm3hl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
